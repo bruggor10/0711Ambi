@@ -17,16 +17,14 @@ Konfigurations- und Einstellungsdateien für:
 - Excel-Tabelle zur Errechnung der Rohrlänge (abhängig vom Radius der Konstruktioin)
 
 ---
-
 ## Inspiration & Credits
 
 Das Projekt wurde inspiriert durch das Projekt "DodekaOTTO" des Tangible Music Lab (https://tamlab.kunstuni-linz.at/projects/dodekaotto/)
 3D Design des Lautsprechers von "OttoSonics" (https://www.alterbauhof.at/ottosonics/)
-
----
+- Anpassungen am Design des Lautsprecherchassis zur Befestigung an den Eckverbindern des Dodekaeder
 
 ## Lizenz
-GPLv3
+CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
