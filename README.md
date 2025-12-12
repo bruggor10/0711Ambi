@@ -26,7 +26,7 @@ Das Projekt wurde inspiriert durch das Projekt "DodekaOTTO" des Tangible Music L
 ---
 
 ## Lizenz
-*(Optional: hier Lizenz einfügen, z. B. MIT, GPL, CC-BY etc.)*
+GPLv3
 
 ---
 
